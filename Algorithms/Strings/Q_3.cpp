@@ -24,9 +24,7 @@ string gameOfThrones(string s){
                 return "NO";
         }
     }
-    
     return "YES";
-    
 }
 
 int main() {
